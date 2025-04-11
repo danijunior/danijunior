@@ -1,7 +1,7 @@
 
 # 👋 Hello, je suis Dani !
 
-Développeur Backend expérimenté, passionné par les architectures robustes, scalables et la qualité logicielle.  
+Développeur Sénior PHP (Symfony/Laravel) et JS (ReactJs/VueJs), passionné par les architectures robustes, scalables et la qualité logicielle.  
 Toujours en quête de nouveaux challenges tech !
 
 ---
