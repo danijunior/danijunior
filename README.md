@@ -68,6 +68,7 @@ Toujours en quête de nouveaux challenges tech !
 
 ### Méthodologie
 *Structurer le développement pour atteindre l'excellence technique.*
+
 ![Agile](https://img.shields.io/badge/Agile-Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
 
