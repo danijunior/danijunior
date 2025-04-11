@@ -9,6 +9,8 @@ Toujours en quête de nouveaux challenges tech !
 ## 🛠️ Stack Technique
 
 ### Backend
+*Concevoir des fondations robustes pour des applications ambitieuses.*
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
