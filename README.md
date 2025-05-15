@@ -1,8 +1,8 @@
 
-# 👋 Hello, je suis Dani !
+# 👋 Hello, I'm Dani !
 
-Développeur Sénior PHP (Symfony/Laravel) et JS (ReactJs/VueJs), passionné par les architectures robustes, scalables et la qualité logicielle.  
-Toujours en quête de nouveaux challenges tech !
+Senior Developer specialized in PHP (Symfony/Laravel) and JavaScript (ReactJs/VueJs), passionate about building robust, scalable architectures and delivering high-quality software.
+Always on the lookout for new tech challenges!
 
 ---
 
